@@ -1,5 +1,5 @@
 {
-  "name": "react-video-recorder",
+  "name": "@ikbendaan/react-video-recorder",
   "main": "lib",
   "files": [
     "lib",
@@ -86,10 +86,20 @@
     "styled-components": "4",
     "travis-deploy-once": "^4.4.0"
   },
-  "version": "0.0.0-development",
+  "version": "0.0.4-development",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fbaiodias/react-video-recorder.git"
+    "url": "git+https://github.com/daansmit/react-video-recorder.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "description": "## Installation",
+  "bugs": {
+    "url": "https://github.com/daansmit/react-video-recorder/issues"
+  },
+  "homepage": "https://github.com/daansmit/react-video-recorder#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": "Daan Smit"
 }
